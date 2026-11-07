@@ -1,0 +1,10 @@
+{
+  "plex_url": "http://127.0.0.1:32400",
+  "prefs_path": "",
+  "plugin_prefs": "",
+  "agent": "com.plexapp.agents.metatube",
+  "sections": [],
+  "mapping_file": "",
+  "workers": 6,
+  "timeout": 60
+}
